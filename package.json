@@ -24,9 +24,9 @@
     },
     "homepage": "https://github.com/Bholtland/nest-class-validator-decorator#readme",
     "dependencies": {
-        "@nestjs/common": "^8.4.3",
+        "@nestjs/common": "^9.4.3",
         "class-transformer": "^0.5.1",
-        "class-validator": "^0.13.2",
+        "class-validator": "^0.14.0",
         "reflect-metadata": "^0.1.13"
     },
     "devDependencies": {
